@@ -12,7 +12,6 @@ This program is a simple contract written in Solidity, a programming language us
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at [Remix Ethereum](https://remix.ethereum.org/).
 
-solidity
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
