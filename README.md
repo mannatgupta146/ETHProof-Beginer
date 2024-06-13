@@ -1,4 +1,4 @@
-# Kitty Token Contract
+# Hello Token Contract
 
 This Solidity program is a simple illustration of the generation, minting, and burning of tokens.
 
