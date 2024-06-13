@@ -1,4 +1,4 @@
-#   Hello Token Contract
+# Kitty Token Contract
 
 This Solidity program is a simple illustration of the generation, minting, and burning of tokens.
 
@@ -12,6 +12,7 @@ This program is a simple contract written in Solidity, a programming language us
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at [Remix Ethereum](https://remix.ethereum.org/).
 
+```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity 0.8.18;
 
@@ -55,7 +56,7 @@ contract MyToken {
         }
     }
 }
-
+```
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile Token.sol" button.
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Token" contract from the dropdown menu, and then click on the "Deploy" button.
