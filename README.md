@@ -6,6 +6,10 @@ This Solidity program is a simple illustration of the generation, minting, and b
 
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. The contract defines a token with a name, abbreviation, and total supply. It includes functionalities to mint new tokens and burn existing ones.
 
+## Video Tutorial
+
+For a detailed walkthrough of the code and how the project works, check out the [Loom video](https://www.loom.com/share/1bea3286d74a44f18936f36afb852c9e?sid=7a09dfdf-31e5-4c68-84a7-d81b221a7926).
+
 ## Getting Started
 
 ### Executing Program
@@ -60,3 +64,6 @@ contract MyToken {
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile Token.sol" button.
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "Token" contract from the dropdown menu, and then click on the "Deploy" button.
+
+## Thank You
+Thank you for checking out this project! If you found it helpful or interesting, please consider giving it a star on GitHub. Your support is greatly appreciated!
